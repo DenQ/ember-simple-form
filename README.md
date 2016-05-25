@@ -9,7 +9,7 @@ For capturing user `submit` actions, the form copies the current values within t
 
 ## Installation
 
-* `npm install ember-simple-form`
+* `npm install ember-simple-form --save`
 
 ## Use
 
